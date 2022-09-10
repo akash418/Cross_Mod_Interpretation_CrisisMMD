@@ -10,6 +10,7 @@ Dataset included in the /datasets folder has been taken from this URL: <https://
 ## Contents
 Contents of the project-
 
+```
 .
 ├── Cross_Modal_Captioning.ipynb
 ├── README.md
@@ -23,6 +24,7 @@ Contents of the project-
     ├── mexico_earthquake_final_data.tsv
     └── srilanka_floods_final_data.tsv
 
+```
 
 
 ## Instructions to run:
